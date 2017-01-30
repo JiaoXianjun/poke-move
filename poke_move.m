@@ -25,6 +25,9 @@ start_minute = 0;
 lat_lon_poi = load(lat_lon_poi_filename);
 
 time_vec = clock;
+time_vec(1) = 2017;
+time_vec(2) = 1;
+time_vec(3) = 29;
 h = time_vec(4);
 m = time_vec(5);
 s = floor(time_vec(6));
@@ -34,23 +37,39 @@ h = floor(m_total/60);
 m = m_total - h*60;
 time_str = [num2str(time_vec(1)) '/' num2str(time_vec(2)) '/' num2str(time_vec(3)) ',' num2str(h) ':' num2str(m) ':' num2str(s)];
 
-for i=1:10
+for j=1:10
   for i=1:size(lat_lon_poi,1)
     lat = lat_lon_poi(i,1);
     lon = lat_lon_poi(i,2);
-    bin_gen_str = ['./gps-sdr-sim -e ' gps_file ' -l ' num2str(lat) ',' num2str(lon) ',8 -t ' time_str ...
-    ' -o gpssim-static.bin -d ' num2str(len_second)];
-
-    disp(bin_gen_str); fflush(1);
-
-    system(bin_gen_str);
-
-    system('bladeRF-cli -s bladerf.script');
+    bin_filename = ['gps_' num2str(lat) '_' num2str(lon) '_' num2str(len_second) 's_bladerf.bin'];
+    script_filename = ['gps_' num2str(lat) '_' num2str(lon) '_' num2str(len_second) 's_bladerf.script'];
+    disp([bin_filename ' ' script_filename]); fflush(1);
     
-    %lat = lat + 0.0001;
-    %lon = lon + 0.0001;
-  %  lat = lat - 0.0003;
-  %  lon = lon - 0.0003;
+    if isempty(dir(bin_filename))
+      disp('bladerf bin file NOT FOUND. generating...'); fflush(1);
+      % generation bladerf bin and script files
+      bin_gen_str = ['./gps-sdr-sim -e ' gps_file ' -l ' num2str(lat) ',' num2str(lon) ',8 -t ' time_str ...
+      ' -o ' bin_filename ' -d ' num2str(len_second)];
+
+      disp(bin_gen_str); fflush(1);
+
+      system(bin_gen_str);
+      
+      fid = fopen(script_filename,'w');
+      if fid == -1
+        disp('fopen script_filename fail.'); fflush(1);
+        return;
+      end
+      fprintf(fid, 'set frequency tx 1575.42M\nset samplerate 2.6M\nset bandwidth 2.5M\ncal lms\ncal dc tx\ntx config file=%s format=bin\ntx start\ntx wait\n', bin_filename);
+      fclose(fid);
+    else
+      disp('bladerf bin file     FOUND.'); fflush(1);
+    end
+    disp(['poi idx ' num2str(i)]); fflush(1);
+
+    % plat gps signal
+    system(['bladeRF-cli -s ' num2str(script_filename)]);
+    
     start_minute = start_minute + 1;
   end
 end
