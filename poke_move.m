@@ -1,8 +1,8 @@
-function poke_move(gps_file)
+function poke_move(gps_file,lat_lon_poi_filename, len_second)
 % len_second at least 40s
 
 start_minute = 0;
-len_second = 50;
+%len_second = 60;
 %lat_lon_poi = [51.036629, 3.717257;
 %51.036740, 3.717858;
 %51.036848, 3.718695;
@@ -22,7 +22,7 @@ len_second = 50;
 %
 %lat_lon_poi = [lat_lon_poi; lat_lon_poi((end-1):-1:2,:)];
 
-lat_lon_poi = load('lat_lon_poi.txt');
+lat_lon_poi = load(lat_lon_poi_filename);
 
 time_vec = clock;
 h = time_vec(4);
