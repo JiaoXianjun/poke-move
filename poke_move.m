@@ -1,8 +1,8 @@
-function poke_move(gps_file, lat_lon_vec)
+function poke_move(gps_file)
 % len_second at least 40s
 
 start_minute = 0;
-len_second = 40;
+len_second = 50;
 %lat_lon_poi = [51.036629, 3.717257;
 %51.036740, 3.717858;
 %51.036848, 3.718695;
@@ -16,18 +16,20 @@ len_second = 40;
 %51.035377, 3.714238;
 %51.035782, 3.712993]
 
-num_col = 2;
-num_row = length(lat_lon_vec)/num_col;
-lat_lon_poi = reshape(lat_lon_vec,[num_col,num_row]).';
+%num_col = 2;
+%num_row = length(lat_lon_vec)/num_col;
+%lat_lon_poi = reshape(lat_lon_vec,[num_col,num_row]).';
+%
+%lat_lon_poi = [lat_lon_poi; lat_lon_poi((end-1):-1:2,:)];
 
-lat_lon_poi = [lat_lon_poi; lat_lon_poi((end-1):-1:2,:)];
+lat_lon_poi = load('lat_lon_poi.txt');
 
 time_vec = clock;
 h = time_vec(4);
 m = time_vec(5);
 s = floor(time_vec(6));
 m_total = h*60+m;
-m_total = m_total - 80;
+m_total = m_total - 120;
 h = floor(m_total/60);
 m = m_total - h*60;
 time_str = [num2str(time_vec(1)) '/' num2str(time_vec(2)) '/' num2str(time_vec(3)) ',' num2str(h) ':' num2str(m) ':' num2str(s)];
