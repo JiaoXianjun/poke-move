@@ -25,9 +25,9 @@ start_minute = 0;
 lat_lon_poi = load(lat_lon_poi_filename);
 
 time_vec = clock;
-time_vec(1) = 2017;
-time_vec(2) = 1;
-time_vec(3) = 29;
+%time_vec(1) = 2017;
+%time_vec(2) = 1;
+%time_vec(3) = 29;
 h = time_vec(4);
 m = time_vec(5);
 s = floor(time_vec(6));
@@ -57,7 +57,7 @@ for i=1:size(lat_lon_poi,1)
     disp('fopen script_filename fail.');
     return;
   end
-  fprintf(fid, 'set frequency tx 1575.42M\nset samplerate 2.6M\nset bandwidth 2.5M\nset txvga1 -25\nset txvga2 0\ncal lms\ncal dc tx\ntx config file=%s format=bin\ntx start\ntx wait\n', bin_filename);
+  fprintf(fid, 'set frequency tx 1575.42M\nset samplerate 2.6M\nset bandwidth 2.5M\nset txvga1 -10\nset txvga2 0\ncal lms\ncal dc tx\ntx config file=%s format=bin\ntx start\ntx wait\n', bin_filename);
   fclose(fid);
 
   start_minute = start_minute + 1;
