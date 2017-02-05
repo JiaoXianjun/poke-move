@@ -27,8 +27,11 @@ lat_lon_poi = load(lat_lon_poi_filename);
 time_vec = clock;
 %time_vec(1) = 2017;
 %time_vec(2) = 1;
-%time_vec(3) = 29;
+%time_vec(3) = 4;
 h = time_vec(4);
+%if h<2
+%  h=24;
+%end
 m = time_vec(5);
 s = floor(time_vec(6));
 m_total = h*60+m;
