@@ -50,14 +50,14 @@ for j=1:3
   for i=1:size(lat_lon_poi,1)
     lat = lat_lon_poi(i,1);
     lon = lat_lon_poi(i,2);
-    bin_filename = ['gps_' num2str(lat,"%12.8f") '_' num2str(lon,"%12.8f") '_' num2str(len_second) 's_bladerf.bin'];
+    bin_filename = ['gps_' num2str(lat,"%12.6f") '_' num2str(lon,"%12.6f") '_' num2str(len_second) 's_bladerf.bin'];
     disp([bin_filename ' ' script_filename]);
     
     if isempty(dir(bin_filename))
         disp('bladerf bin file NOT FOUND. generating...'); fflush(1);
         % generation bladerf bin and script files
         time_str = [num2str(time_vec(1)) '/' num2str(time_vec(2)) '/' num2str(time_vec(3)) ',' num2str(h) ':' num2str(start_minute) ':' num2str(s)];
-        bin_gen_str = ['./gps-sdr-sim -e ' gps_file ' -l ' num2str(lat) ',' num2str(lon) ',8 -t ' time_str ...
+        bin_gen_str = ['./gps-sdr-sim -e ' gps_file ' -l ' num2str(lat,"%12.6f") ',' num2str(lon,"%12.6f") ',8 -t ' time_str ...
         ' -o ' bin_filename ' -d ' num2str(len_second)];
 
         disp(bin_gen_str); fflush(1);
