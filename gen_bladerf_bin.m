@@ -46,7 +46,7 @@ if fid == -1
 end
 
 start_minute = m;
-for j=1:3
+for j=1:999
   for i=1:size(lat_lon_poi,1)
     lat = lat_lon_poi(i,1);
     lon = lat_lon_poi(i,2);
