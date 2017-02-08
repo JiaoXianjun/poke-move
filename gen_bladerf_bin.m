@@ -1,5 +1,7 @@
-function gen_bladerf_bin(gps_file,lat_lon_poi_filename, start_h_m, len_second)
+function gen_bladerf_bin(gps_file,lat_lon_poi_filename, len_second, num_round)
 % len_second at least 40s
+
+start_h_m = [13 1];
 
 start_minute = 0;
 %len_second = 60;
@@ -25,9 +27,9 @@ start_minute = 0;
 lat_lon_poi = load(lat_lon_poi_filename);
 
 time_vec = clock;
-%time_vec(1) = 2017;
-%time_vec(2) = 1;
-%time_vec(3) = 29;
+time_vec(1) = 2017;
+time_vec(2) = 2;
+time_vec(3) = 6;
 %h = time_vec(4);
 %m = time_vec(5);
 h = start_h_m(1);
@@ -46,7 +48,7 @@ if fid == -1
 end
 
 start_minute = m;
-for j=1:999
+for j=1:num_round
   for i=1:size(lat_lon_poi,1)
     lat = lat_lon_poi(i,1);
     lon = lat_lon_poi(i,2);
