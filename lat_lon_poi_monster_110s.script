@@ -1,0 +1,7000 @@
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037722_3.718778_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039368_3.722112_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036683_3.721692_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.036660_3.717819_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.037822_3.718758_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039174_3.720716_110s_bladerf.bin format=bin
+tx start
+tx wait
+set frequency tx 1575.42M
+set samplerate 2.6M
+set bandwidth 2.5M
+set txvga1 -20
+set txvga2 0
+cal lms
+cal dc tx
+tx config file=gps_51.039228_3.722025_110s_bladerf.bin format=bin
+tx start
+tx wait

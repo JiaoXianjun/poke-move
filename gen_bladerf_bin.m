@@ -40,7 +40,14 @@ s = floor(time_vec(6));
 %h = floor(m_total/60);
 %m = m_total - h*60;
 
-script_filename = ['gps_' num2str(len_second) 's_bladerf_all.script'];
+idx = find(lat_lon_poi_filename == '.');
+if isempty(idx)
+  main_name_lat_lon_poi_filename = lat_lon_poi_filename;
+else
+  main_name_lat_lon_poi_filename = lat_lon_poi_filename(1:(idx(end)-1));
+end
+
+script_filename = [main_name_lat_lon_poi_filename '_' num2str(len_second) 's.script'];
 fid = fopen(script_filename,'w');
 if fid == -1
   disp('fopen script_filename fail.');
