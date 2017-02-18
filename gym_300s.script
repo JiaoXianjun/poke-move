@@ -1,7 +1,7 @@
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -11,7 +11,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -21,7 +21,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -31,7 +31,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -41,7 +41,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -51,7 +51,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -61,7 +61,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -71,7 +71,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -81,7 +81,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -91,7 +91,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -101,7 +101,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -111,7 +111,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -121,7 +121,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -131,7 +131,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -141,7 +141,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -151,7 +151,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -161,7 +161,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -171,7 +171,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -181,7 +181,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -191,7 +191,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -201,7 +201,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -211,7 +211,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -221,7 +221,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -231,7 +231,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -241,7 +241,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -251,7 +251,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -261,7 +261,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -271,7 +271,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -281,7 +281,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -291,7 +291,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -301,7 +301,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -311,7 +311,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -321,7 +321,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -331,7 +331,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -341,7 +341,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -351,7 +351,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -361,7 +361,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -371,7 +371,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -381,7 +381,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -391,7 +391,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -401,7 +401,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -411,7 +411,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -421,7 +421,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -431,7 +431,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -441,7 +441,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -451,7 +451,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -461,7 +461,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -471,7 +471,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -481,7 +481,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -491,7 +491,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -501,7 +501,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -511,7 +511,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -521,7 +521,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -531,7 +531,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -541,7 +541,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -551,7 +551,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -561,7 +561,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -571,7 +571,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -581,7 +581,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -591,7 +591,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -601,7 +601,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -611,7 +611,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -621,7 +621,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -631,7 +631,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -641,7 +641,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -651,7 +651,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -661,7 +661,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -671,7 +671,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -681,7 +681,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -691,7 +691,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -701,7 +701,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -711,7 +711,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -721,7 +721,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -731,7 +731,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -741,7 +741,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -751,7 +751,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -761,7 +761,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -771,7 +771,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -781,7 +781,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -791,7 +791,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -801,7 +801,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -811,7 +811,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -821,7 +821,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -831,7 +831,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -841,7 +841,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -851,7 +851,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -861,7 +861,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -871,7 +871,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -881,7 +881,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -891,7 +891,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -901,7 +901,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -911,7 +911,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -921,7 +921,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -931,7 +931,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -941,7 +941,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -951,7 +951,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -961,7 +961,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -971,7 +971,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -981,7 +981,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
@@ -991,7 +991,7 @@ tx wait
 set frequency tx 1575.42M
 set samplerate 2.6M
 set bandwidth 2.5M
-set txvga1 -17
+set txvga1 -20
 set txvga2 0
 cal lms
 cal dc tx
