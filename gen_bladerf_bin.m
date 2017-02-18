@@ -69,7 +69,7 @@ for j=1:num_round
         disp('bladerf bin file     FOUND.'); fflush(1);
     end
     
-    fprintf(fid, 'set frequency tx 1575.42M\nset samplerate 2.6M\nset bandwidth 2.5M\nset txvga1 -15\nset txvga2 0\ncal lms\ncal dc tx\ntx config file=%s format=bin\ntx start\ntx wait\n', bin_filename);
+    fprintf(fid, 'set frequency tx 1575.42M\nset samplerate 2.6M\nset bandwidth 2.5M\nset txvga1 -20\nset txvga2 0\ncal lms\ncal dc tx\ntx config file=%s format=bin\ntx start\ntx wait\n', bin_filename);
 
     start_minute = start_minute + 1;
   end
