@@ -1,6 +1,6 @@
 # poke-move
 
-In octave, run: gen_bladerf_bin('hour0490.17n','lat_lon_poi_all.txt', 130, 100);
+In octave, run: gen_bladerf_bin('hour0540.17n','lat_lon_poi_all.txt', 130, 100);
 
 110 -- stay duration of each gps location: 130s
 
