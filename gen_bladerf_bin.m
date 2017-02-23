@@ -1,7 +1,7 @@
 function gen_bladerf_bin(gps_file,lat_lon_poi_filename, len_second, num_round)
 % len_second at least 40s
 
-start_h_m = [15 30];
+start_h_m = [21 00];
 
 start_minute = 0;
 %len_second = 60;
@@ -29,7 +29,7 @@ lat_lon_poi = load(lat_lon_poi_filename);
 time_vec = clock;
 time_vec(1) = 2017;
 time_vec(2) = 2;
-time_vec(3) = 18;
+time_vec(3) = 23;
 %h = time_vec(4);
 %m = time_vec(5);
 h = start_h_m(1);
