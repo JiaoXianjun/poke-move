@@ -1,9 +1,6 @@
 function gen_bladerf_bin(gps_file,lat_lon_poi_filename, len_second, num_round)
 % len_second at least 40s
 
-start_h_m = [21 00];
-
-start_minute = 0;
 %len_second = 60;
 %lat_lon_poi = [51.036629, 3.717257;
 %51.036740, 3.717858;
@@ -26,19 +23,16 @@ start_minute = 0;
 
 lat_lon_poi = load(lat_lon_poi_filename);
 
-time_vec = clock;
-time_vec(1) = 2017;
-time_vec(2) = 2;
-time_vec(3) = 23;
-%h = time_vec(4);
-%m = time_vec(5);
-h = start_h_m(1);
-m = start_h_m(2);
-s = floor(time_vec(6));
-%m_total = h*60+m;
-%m_total = m_total - 120;
-%h = floor(m_total/60);
-%m = m_total - h*60;
+[tmin, tmax] = probe_tmin_tmax_in_gps_fiel(gps_file);
+disp(['tmin ' num2str(tmin)]);
+disp(['tmax ' num2str(tmax)]);
+
+year = tmax(1);
+month = tmax(2);
+day = tmax(3);
+h = tmax(4);
+m = tmax(5);
+s = tmax(6);
 
 idx = find(lat_lon_poi_filename == '.');
 if isempty(idx)
@@ -54,7 +48,8 @@ if fid == -1
   return;
 end
 
-start_minute = m;
+start_s = hms2s(h, m, s) - len_second*(size(lat_lon_poi,1)+1);
+disp(['len_second ' num2str(len_second) ' num poi ' num2str(size(lat_lon_poi,1)) ' second backoff ' num2str(len_second*(size(lat_lon_poi,1)+1))]);
 for j=1:num_round
   for i=1:size(lat_lon_poi,1)
     lat = lat_lon_poi(i,1);
@@ -65,7 +60,9 @@ for j=1:num_round
     if isempty(dir(bin_filename))
         disp('bladerf bin file NOT FOUND. generating...'); fflush(1);
         % generation bladerf bin and script files
-        time_str = [num2str(time_vec(1)) '/' num2str(time_vec(2)) '/' num2str(time_vec(3)) ',' num2str(h) ':' num2str(start_minute) ':' num2str(s)];
+        [h, m, s] = s2hms(start_s);
+        disp(['h m s ' num2str([h m s])]);
+        time_str = [num2str(year) '/' num2str(month) '/' num2str(day) ',' num2str(h) ':' num2str(m) ':' num2str(s)];
         bin_gen_str = ['./gps-sdr-sim -e ' gps_file ' -l ' num2str(lat,"%12.6f") ',' num2str(lon,"%12.6f") ',8 -t ' time_str ...
         ' -o ' bin_filename ' -d ' num2str(len_second)];
 
@@ -78,7 +75,7 @@ for j=1:num_round
     
     fprintf(fid, 'set frequency tx 1575.42M\nset samplerate 2.6M\nset bandwidth 2.5M\nset txvga1 -20\nset txvga2 0\ncal lms\ncal dc tx\ntx config file=%s format=bin\ntx start\ntx wait\n', bin_filename);
 
-    start_minute = start_minute + 1;
+    start_s = start_s + len_second;
   end
 end
 
