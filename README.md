@@ -1,5 +1,7 @@
 # poke-move
 
+-1. Generate gps-sdr-sim from this project https://github.com/osqzss/gps-sdr-sim firstly if mine doesn't work for your computer.
+
 0. Input gps latitude and lontitude pairs in lat_lon_poi_all.txt. You may make them as a close path.
 
 1. In octave, run: gen_bladerf_bin('hour0630.17n','lat_lon_poi_all.txt', 130, 200);
