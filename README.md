@@ -4,7 +4,7 @@ Principle:
 
 NASA GPS data --> gen_bladerf_bin script --> .bin, .script file --> bladeRF-cli --> bladeRF board --> antenna --> your cellphone (pokemon go)
 
--1. Generate gps-sdr-sim from this project https://github.com/osqzss/gps-sdr-sim firstly if mine doesn't work for your computer.
+- 1. Generate gps-sdr-sim from this project https://github.com/osqzss/gps-sdr-sim firstly if mine doesn't work for your computer.
 
 0. Input gps latitude and lontitude pairs in lat_lon_poi_all.txt. You may make them as a close path.
 
